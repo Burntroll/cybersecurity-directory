@@ -21,5 +21,5 @@
 
 ### Results
 
-![login](http://url/to/login.png)
-![password](http://url/to/password.png)
+![login](login.png)
+![password](password.png)
