@@ -21,6 +21,5 @@
 
 ### Results
 
-login.png
-
-password.png
+![alt text](http://url/to/login.png)
+![alt text](http://url/to/password.png)
